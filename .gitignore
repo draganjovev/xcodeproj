@@ -180,6 +180,5 @@ xcuserdata
 .vscode
 
 build/
-xcodeproj.xcodeproj
 .idea/
 tmp/
